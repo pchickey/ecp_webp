@@ -1,0 +1,9 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["pat@moreproductive.org"]
+description = "show using the webp crate with c@e"
+language = "rust"
+manifest_version = 1
+name = "ecp_webp"
+service_id = "0wvTEYrGyoL8CGvsT9gFlq"
